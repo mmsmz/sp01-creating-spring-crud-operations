@@ -2,9 +2,9 @@ package com.example.demo.dto;
 
 public class Topic {
 
-    String id;
-    String name;
-    String description;
+    private String id;
+    private String name;
+    private String description;
 
     public Topic() {
     }
